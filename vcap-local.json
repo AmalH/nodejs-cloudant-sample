@@ -1,0 +1,21 @@
+{
+  "services": {
+    "cloudantNoSQLDB": [
+      {
+        "credentials": {
+          "apikey": "XYZ",
+          "host": "XYZ",
+          "iam_apikey_description": "XYZ",
+          "iam_apikey_name": "XYZ",
+          "iam_role_crn": "XYZ",
+          "iam_serviceid_crn": "XYZ",
+          "password": "XYZ",
+          "port": "XYZ",
+          "url":"XYZ",
+          "username": "XYZ"
+        },
+        "label": "cloudantNoSQLDB"
+      }
+    ]
+  }
+}
